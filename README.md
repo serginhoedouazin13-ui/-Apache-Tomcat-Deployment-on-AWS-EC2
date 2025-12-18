@@ -194,11 +194,4 @@ tail -n 200 /opt/tomcat/logs/catalina.out
   - Fork the repo
   - Create a branch
   - Open a PR with changes and a descriptive title
-  - Include tests or verification steps for automation scripts
-
----
-
-If you'd like, I can:
-- Commit this README.md to your repository as a PR or direct commit,
-- Add a suggested LICENSE and CONTRIBUTING.md,
-- Or create automation scripts and a GitHub Actions workflow to build/test and (optionally) deploy artifacts.
+  - Include tests or verification steps for automation script
