@@ -1,18 +1,1 @@
-This project focuses on deploying a Java web application server in a cloud environment using Amazon Web Services (AWS). An EC2 instance was used to provision a persistent Linux server capable of running Apache Tomcat 10, which serves web applications over HTTP.
 
-Technologies Used
-- **AWS EC2** – Virtual server to host the application
-- **Amazon Linux** – Operating system for the EC2 instance
-- **Apache Tomcat 10** – Java application server
-- **Java (OpenJDK)** – Required to run Tomcat
-- **VS Code** – Code editor and remote file management
-- **SSH** – Secure connection to the EC2 instance
-
- What I Did
-- Launched an **EC2 instance** on AWS
-- Connected to the instance using **SSH**
-- Installed **Java and Apache Tomcat**
-- Configured **security group rules** to allow traffic on port `8080`
-- Created and deployed a **ROOT web application**
-- Verified server availability through a web browser
-- Used **VS Code** to edit files and manage the server efficiently
