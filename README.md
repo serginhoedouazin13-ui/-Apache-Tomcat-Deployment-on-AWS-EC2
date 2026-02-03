@@ -7,7 +7,6 @@
 
 A comprehensive guide for deploying and configuring **Apache Tomcat 10** on an **AWS EC2 Linux instance** to host Java web applications (WAR files) in the cloud with internet accessibility.
 
-![Apache Tomcat Architecture](apache%20tomcat%20project.png)
 
 ##  Table of Contents
 
